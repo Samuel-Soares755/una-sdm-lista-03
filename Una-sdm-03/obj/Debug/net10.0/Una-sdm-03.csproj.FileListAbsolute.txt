@@ -1,0 +1,14 @@
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\bin\Debug\net10.0\Una-sdm-03.exe
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\bin\Debug\net10.0\Una-sdm-03.deps.json
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\bin\Debug\net10.0\Una-sdm-03.runtimeconfig.json
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\bin\Debug\net10.0\Una-sdm-03.dll
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\bin\Debug\net10.0\Una-sdm-03.pdb
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\obj\Debug\net10.0\Una-sdm-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\obj\Debug\net10.0\Una-sdm-03.AssemblyInfoInputs.cache
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\obj\Debug\net10.0\Una-sdm-03.AssemblyInfo.cs
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\obj\Debug\net10.0\Una-sdm-03.csproj.CoreCompileInputs.cache
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\obj\Debug\net10.0\Una-sdm-03.dll
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\obj\Debug\net10.0\refint\Una-sdm-03.dll
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\obj\Debug\net10.0\Una-sdm-03.pdb
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\obj\Debug\net10.0\Una-sdm-03.genruntimeconfig.cache
+C:\Users\samu1\OneDrive\Documentos\Atividade 03 Una\Una-sdm-03\obj\Debug\net10.0\ref\Una-sdm-03.dll
